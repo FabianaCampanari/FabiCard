@@ -1,4 +1,4 @@
-# Projects, is a kinf of a digital business card including my codes.
+# Projects, is a kind of a digital business card including my codes.
 
 < made with love & joy />
 
