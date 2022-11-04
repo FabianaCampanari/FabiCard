@@ -11,7 +11,7 @@ SPECS:
 
 -My projects thumbnail through the “embed” feature of Code Pen.
 
--Dark Mode Button otion viem included.
+-Dark Mode Button option viem included.
 
 // HTML | CSS and integrated with Firma | JavaScript | Github
 
