@@ -1,23 +1,20 @@
-# Projects, 
+🎫 FabiCard, 
 
 
-
-💳 It's a kind of a digital business card including my codes and a dark mode button view option.
-
+✨It's a kind of a digital business card including my codes and a dark mode button view option.
 
 
-🤍   < made with love & joy />
+🤎< made with love & joy />
 
 
+📌SPECS:
 
-📝 SPECS:
+✨Development of a web project created within Code Pen and later hosted on Github as a website.
 
--Development of a web project created within Code Pen and later hosted on Github as a website.
+✨My projects thumbnail through the “embed” feature of Code Pen.
 
--My projects thumbnail through the “embed” feature of Code Pen.
+✨Dark Mode Button option viem included.
 
--Dark Mode Button option viem included.
-
-// HTML | CSS and integrated with Firma | JavaScript | Github.
+✨// HTML | CSS and integrated with Firma | JavaScript | Github.
 
 
