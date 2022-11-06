@@ -13,7 +13,7 @@
 
 ✨My projects thumbnail through the “embed” feature of Code Pen.
 
-✨Dark Mode Button option viem included.
+✨Dark Mode button viem option included.
 
 ✨HTML | JavaScript | CSS | Github | Figma 
 
