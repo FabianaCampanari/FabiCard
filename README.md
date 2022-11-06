@@ -1,11 +1,14 @@
 # Projects, 
 
-It's a kind of a digital business card including my codes and a dark mode button view option.
-
-< made with love & joy />
+💳 It's a kind of a digital business card including my codes and a dark mode button view option.
 
 
-SPECS:
+
+🤍 < made with love & joy />
+
+
+
+📝 SPECS:
 
 -Development of a web project created within Code Pen and later hosted on Github as a website.
 
