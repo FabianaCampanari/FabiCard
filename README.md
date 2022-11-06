@@ -15,6 +15,6 @@
 
 ✨Dark Mode Button option viem included.
 
-✨HTML | JavaScript | Github | CSS and integrated with Figma 
+✨HTML | JavaScript | CSS | Github | Figma 
 
 
