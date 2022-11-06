@@ -1,7 +1,7 @@
 🎫 FabiCard, 
 
 
-✨It's a kind of a digital business card including my codes and a dark mode button view option.
+💫It's a kind of a digital business card including my codes and a dark mode button view option.
 
 
 🤎< made with love & joy />
@@ -15,6 +15,6 @@
 
 ✨Dark Mode Button option viem included.
 
-✨// HTML | CSS and integrated with Firma | JavaScript | Github.
+✨HTML | JavaScript | Github | CSS and integrated with Figma 
 
 
