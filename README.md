@@ -1,7 +1,7 @@
 🎫 - FabiCard, 
 
 
-✨It's a kind of a digital business card including projects thumbnails, codes and a dark mode view option. button .
+✨It's a kind of a digital business card including projects thumbnail, codes and a dark mode view option. button .
 
 
 🤎 < made with love & joy />
