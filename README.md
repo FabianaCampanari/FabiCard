@@ -18,13 +18,13 @@ ________________________________________________________________________________
 
 📌 SPECS:
 
-✨Development of a web project created within Code Pen and later hosted on Github as a website.
+✨   Development of a web project created within Code Pen and later hosted on Github as a website.
 
-✨My projects thumbnail through the “embed” feature of Code Pen.
+✨   My projects thumbnail through the “embed” feature of Code Pen.
 
-✨Dark Mode button viem option included.
+✨   Dark Mode button viem option included.
 
-✨HTML | JavaScript | CSS | Github | Figma 
+✨   HTML | JavaScript | CSS | Github | Figma 
 
 _____________________________________________________________________________________________
 
