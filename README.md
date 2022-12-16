@@ -4,7 +4,7 @@
 ✨It's a kind of a digital business card including my projects thumbnail, codes and a dark mode view option. button .
 
 
-🤎 < made with love & joy />
+< made with love & joy /> 🤎 
 _____________________________________________________________________________________________
 
 ![FabiCard Thumb](https://user-images.githubusercontent.com/113218619/204119559-dd2f2576-248b-409a-9268-80923da368a3.png)
