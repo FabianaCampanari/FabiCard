@@ -1,4 +1,4 @@
-🎫 - FabiCard, 
+🎫  FabiCard
 
 
 ✨It's a kind of a digital business card including my projects thumbnail, codes and a dark mode view option. button .
