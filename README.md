@@ -3,7 +3,7 @@
 ✨  It's a kind of a digital business card including my projects thumbnails, codes, links to my social medias and a dark mode view option button .
 
 
-< made with love & joy /> 🤎 
+ <p align="center"> < made with love & joy /> 🤎 
 _____________________________________________________________________________________________
 
 ![FabiCard Thumb](https://user-images.githubusercontent.com/113218619/214853827-5bce44e1-8d78-4653-bbf4-cbe7532cca9f.png)
