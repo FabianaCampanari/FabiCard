@@ -5,7 +5,7 @@
 
  <p align="center"> < made with love & joy /> 🤎 </p>
 
-_______________________
+_____________________
 
 ![FavCard Thumb Dark](https://user-images.githubusercontent.com/113218619/218143393-3b3f9641-265c-4e9d-8fa7-b357bed83918.png)
 
