@@ -2,7 +2,6 @@
 
 ✨  It's a kind of a digital business card including my projects thumbnails, codes, links to my social medias and a dark mode view option button .
 
-
  <p align="center"> < made with love & joy /> 🤎 </p>
  
  #
@@ -10,6 +9,8 @@
  <p align="center">
  <img src="https://user-images.githubusercontent.com/113218619/218143393-3b3f9641-265c-4e9d-8fa7-b357bed83918.png"
  </p>
+ 
+ #
 
 
 
