@@ -20,7 +20,7 @@
 
 ___________________________________________________________________________
 
-<p align="center"> 🚀  https://fabianacampanari.github.io/FabiCard/
+<p align="center"> 🚀  https://fabianacampanari.github.io/FabiCard/ </p>
 
 _____________________________________________________________________________________________
 
