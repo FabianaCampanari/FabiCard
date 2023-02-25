@@ -17,7 +17,7 @@ _____________________________________________________________________
 
 _____________________________________________________________________________________________
 
-📌   SPECS:
+📌  <p align="center"> SPECS:
 
 ✨   Development of a web project created within Code Pen and later hosted on Github as a website.
 
