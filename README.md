@@ -14,7 +14,7 @@
  
 <p align="center"> 🚀  https://fabianacampanari.github.io/FabiCard/ </p>
 
-_________________________________________________
+________________________________________________
 
  <p align="center"> 📌  SPECS: </p>
 
