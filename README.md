@@ -14,7 +14,7 @@
  
 <p align="center"> 🚀  https://fabianacampanari.github.io/FabiCard/ </p>
 
-____________________________
+__________________________
  <p align="center"> 📌  SPECS: </p>
 
 ✨   Development of a web project created within Code Pen and later hosted on Github as a website.
