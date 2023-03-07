@@ -26,7 +26,7 @@
 
 ✨   HTML | JavaScript | CSS | Github | Figma 
 
-__________
+________
 
 <p align="center"> ⚖︎ This project is licensed under the MIT License. </p>
 
