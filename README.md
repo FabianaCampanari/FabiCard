@@ -20,7 +20,7 @@
 
  <p align="center"> 📌  SPECS: </p>
 
- <p align="center"> ✨   Development of a web project created within Code Pen and later hosted on Github as a website.
+ <p align="center"> ✨   Development of a web project created within Code Pen and later hosted on Github as a website. </p>
 
  <p align="center"> ✨   My projects thumbnail through the “embed” feature of Code Pen. </p>
 
