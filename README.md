@@ -24,7 +24,7 @@
 
  <p align="center"> ✨   My projects thumbnail through the “embed” feature of Code Pen. </p>
 
- <p align="center"> ✨   Dark Mode button viem option included. </p>
+ <p align="center"> ✨   Dark Mode button viem option included </p>
 
  <p align="center"> ✨   HTML | JavaScript | CSS | Github | Figma </p>
 
