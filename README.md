@@ -26,7 +26,7 @@
 
  <p align="center"> ✨   Dark Mode button viem option included.
 
- <p align="center"> ✨   HTML | JavaScript | CSS | Github | Figma 
+ <p align="center"> ✨   HTML | JavaScript | CSS | Github | Figma </p>
 
 #
 
