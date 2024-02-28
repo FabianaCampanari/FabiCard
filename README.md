@@ -31,5 +31,6 @@
 
 <p align="center"> ⚖︎ This project is licensed under the MIT License. </p>
 
+Copyright 2024 Fabiana Campanari. Code released under the Apache-2.0 license.
 
- Apache-2.0 license
+
