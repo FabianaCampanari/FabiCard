@@ -31,4 +31,5 @@
 
 <p align="center"> ⚖︎ This project is licensed under the MIT License. </p>
 
-<p align="center">
+
+ Apache-2.0 license
