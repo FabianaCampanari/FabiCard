@@ -15,7 +15,6 @@
  
 <p align="center"> 🚀  https://fabianacampanari.github.io/FabiCard/ </p>
 
-#
 
  <p align="center"> 📌  SPECS: </p>
 
@@ -26,9 +25,8 @@
  <p align="center"> ✨   Dark Mode button viem option included </p>
 
  <p align="center"> ✨   HTML | JavaScript | CSS | Github | Figma </p>
+ 
 
 #
-
-
 
 ###### <p align="center"> [Copyright 2024 Fabiana Campanari. Code released under the MIT license.]()
