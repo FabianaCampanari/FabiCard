@@ -1,3 +1,5 @@
+<br><br>
+
 # <p align="center"> 🎫  FabiCard </p>
 
 ✨  It's a kind of a digital business card including my projects thumbnails, codes, links to my social medias and a dark mode view option button.
