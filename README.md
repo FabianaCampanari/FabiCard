@@ -31,4 +31,4 @@
 
 
 
-###### <p align="center"> [Copyright 2024 Fabiana Campanari. Code released under the MIT license.](https://github.com/FabianaCampanari/Fashion-and-Design/blob/0d6744e056d6ec8235361a248c611ff27d430764/LICENSE)
+###### <p align="center"> [Copyright 2024 Fabiana Campanari. Code released under the MIT license.]()
