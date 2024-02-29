@@ -29,4 +29,4 @@
 
 #
 
-###### <p align="center"> [Copyright 2024 Fabiana Campanari. Code released under the MIT license.](https://github.com/FabianaCampanari/FabiCard/blob/06bb5ac9efffc9385df627b3ab7ea13e29a8ee7e/LICENSE)
+###### <p align="center"> [Copyright 2024 Fabiana Campanari. Code released under the  Apache-2.0 license.](https://github.com/FabianaCampanari/FabiCard/blob/06bb5ac9efffc9385df627b3ab7ea13e29a8ee7e/LICENSE)
