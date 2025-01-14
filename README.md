@@ -19,16 +19,10 @@
 <br>
  
  <p align="center">
- <img src="" </p>
+ <img src="https://github.com/user-attachments/assets/eb0fe1d0-580d-4a1e-9f3a-c4a1aea565a8" </p>
  
  #
 
-
- ![Screenshot 2025-01-14 at 20 01 35](https://github.com/user-attachments/assets/eb0fe1d0-580d-4a1e-9f3a-c4a1aea565a8)
-
-
-
- 
 
 
 
