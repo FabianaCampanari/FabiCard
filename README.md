@@ -1,6 +1,6 @@
 <br>
 
-# <p align="center">  FabiCard  </p>
+# <p align="center"> 👌 FabiCard  </p>
 ### <p align="center"> Code ↔ Screen, side-by-side.
 
 
@@ -42,7 +42,7 @@
 <br><br><br><br>
 
 
- ####  🎥  [**Live Demo:**]() Turn the Sound On & Enjoy the Show 🎧
+ ###  🎥  [**Live Demo:**]() Turn the Sound On & Enjoy the Show 🎧
 
 <br>
 
