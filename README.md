@@ -1,6 +1,6 @@
 <br>
 
-# <p align="center"> 🎫  FabiCard </p>
+# <p align="center">  Fabi ⚡️ Card </p>
 
 <br>
 
