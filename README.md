@@ -1,6 +1,6 @@
 <br>
 
-# <p align="center"> 👌 FabiCard  </p>
+# <p align="center">  Fabi⚡️Card  </p>
 ### <p align="center"> [Code ↔ Screen](), Side-by-Side.
 
 
@@ -11,7 +11,7 @@
 
 <br><br>
 
- [**FabiCard**]() is an interactive portfolio designed to clearly present the direct relationship between **code** and its **visual output**.  
+ [**Fabi⚡️Card**]() is an interactive portfolio designed to clearly present the direct relationship between **code** and its **visual output**.  
 
 Each project is displayed as a [**dual card**](), allowing simultaneous viewing of the implementation [(HTML / CSS / JS)]() and the final rendered interface.
 
