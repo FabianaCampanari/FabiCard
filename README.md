@@ -1,26 +1,34 @@
 <br>
 
-# <p align="center">  Fabi's ⚡️ Project Thumbs </p>
+# <p align="center">  FabiCard  </p>
+### <p align="center"> Code ↔ Screen, side-by-side.
 
 
-<br>
+<br><br>
 
 #### ✨  It's a kind of a digital business card including my projects thumbnails, codes, links to my social medias and a dark mode view option button.
 
 <br>
 
-##### <p align="center"> 👌🏻 ***< made with vibe, frequency & joy />***   </p>
+##### <p align="center"> ***< made with vibe, frequency & joy />*** ⚡️  </p>
 
 
 
  <br><br>
 
 
-### <p align="center"> 🚀  https://fabianacampanari.github.io/FabiCard/ </p>
+### <p align="center">  👌🏻  https://fabianacampanari.github.io/FabiCard/ </p>
 
 
-<br>
 
+
+https://github.com/user-attachments/assets/8eb67780-ba17-4bee-89a5-c6f6a08a5fed
+
+
+
+
+
+<br><br>
 
 
 
