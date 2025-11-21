@@ -135,14 +135,35 @@ https://github.com/user-attachments/assets/0bb26391-d565-4549-82a3-27e99638258d
 
 
 
- 
- 
- #
 
-  <br><br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
  <br><br>
  <br><br>
  <br><br>
+ <br><br>
+ <br><br>
+ <br><br>
+ 
+ 
+<!-- 
 
 
 ## 📌  SPECS: 
@@ -159,13 +180,43 @@ https://github.com/user-attachments/assets/0bb26391-d565-4549-82a3-27e99638258d
 
 ✨   HTML | JavaScript | CSS | Github | Figma </p>
 
+-->
 
-  <br><br>
 
- 
+
+
+
+## 💌 [Let the data flow... Ping Me !](mailto:fabicampanari@proton.me)
+
+<br>
+
+
+#### <p align="center">  🛸๋ My Contacts [Hub](https://linktr.ee/fabianacampanari)
+
+
+<br>
+
+### <p align="center"> <img src="https://github.com/user-attachments/assets/517fc573-7607-4c5d-82a7-38383cc0537d" />
+
+
+<br><br>
+
+<p align="center">  ────────────── ⊹🔭๋ ──────────────
+
+<!--
+<p align="center">  ────────────── 🛸๋*ੈ✩* 🔭*ੈ₊ ──────────────
+-->
+
+<br>
+
+<p align="center"> ➣➢➤ <a href="#top">Back to Top </a>
+  
+
+<br>
+  
 #
-
- <br><br>
+ 
+<br>
 
 
 ###### <p align="center"> [Copyright 2026 Fabiana Campanari. Code released under the  MIT license.](https://github.com/FabianaCampanari/FabiCard/blob/4efac20bc95ffda894708cdb5be83b1f663cc8b3/LICENSE)
