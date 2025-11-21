@@ -17,7 +17,7 @@
 
 
 
- <br <br>
+ <br><br>
 
 
 ### <p align="center"> 🚀  https://fabianacampanari.github.io/FabiCard/ </p>
@@ -40,7 +40,7 @@
 
  
 
-
+ <br><br>
 
 
  <p align="center"> 📌  SPECS: </p>
@@ -52,8 +52,14 @@
  <p align="center"> ✨   Dark Mode button viem option included </p>
 
  <p align="center"> ✨   HTML | JavaScript | CSS | Github | Figma </p>
- 
 
+
+  <br><br>
+
+ 
 #
 
-###### <p align="center"> [Copyright 2024 Fabiana Campanari. Code released under the  Apache-2.0 license.](https://github.com/FabianaCampanari/FabiCard/blob/06bb5ac9efffc9385df627b3ab7ea13e29a8ee7e/LICENSE)
+ <br><br>
+
+
+###### <p align="center"> [Copyright 2026 Fabiana Campanari. Code released under the  MIT license.](https://github.com/FabianaCampanari/FabiCard/blob/4efac20bc95ffda894708cdb5be83b1f663cc8b3/LICENSE)
