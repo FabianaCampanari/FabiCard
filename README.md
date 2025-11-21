@@ -88,7 +88,7 @@ https://github.com/user-attachments/assets/0bb26391-d565-4549-82a3-27e99638258d
 <br><br>
 
 
-## 🕺 [Technologies & Skills](0
+## 🕺 [Technologies & Skills]()
 
 <br>
 
@@ -108,7 +108,7 @@ https://github.com/user-attachments/assets/0bb26391-d565-4549-82a3-27e99638258d
 <br><br>
 
 
-## ૐ [Sound Design](()
+## ૐ [Sound Design]()
 
 
 <br>
