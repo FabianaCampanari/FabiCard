@@ -14,12 +14,16 @@
 
 <br><br>
 
-[**FabiCard**]() is an interactive portfolio designed to clearly present the direct relationship between **code** and its **visual output**.  
+### [**FabiCard**]() is an interactive portfolio designed to clearly present the direct relationship between **code** and its **visual output**.  
 
-Each project is displayed as a **dual card**, allowing simultaneous viewing of the implementation (HTML/CSS/JS) and the final rendered interface.
+### Each project is displayed as a **dual card**, allowing simultaneous viewing of the implementation (HTML/CSS/JS) and the final rendered interface.
 
 
-### <p align="center">  ***See the project in action*** ➠ https://fabianacampanari.github.io/FabiCard/  
+<br><br>
+
+
+
+#### <p align="center">     😎   ***See the project in action*** ➠ https://fabianacampanari.github.io/FabiCard/  
 
 
 <br><br>
