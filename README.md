@@ -26,11 +26,14 @@ Each project is displayed as a **dual card**, allowing simultaneous viewing of t
 
 
 
+#### ***See the project in action*** ➠ https://fabianacampanari.github.io/FabiCard/  
+
+
+
 <br><br><br><br>
 
 
-
- ### <p align="center"> 🎥  **Live Demo:** https://fabianacampanari.github.io/FabiCard/  
+ #####  🎥  **Live Demo:**
 
 <br>
 
