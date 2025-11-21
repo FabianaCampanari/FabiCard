@@ -108,18 +108,40 @@ https://github.com/user-attachments/assets/0bb26391-d565-4549-82a3-27e99638258d
 <br><br>
 
 
-<!-- OLD IMG
- 
- <p align="center">
- <img src="https://github.com/user-attachments/assets/eb0fe1d0-580d-4a1e-9f3a-c4a1aea565a8" </p>
+## 🎧 [Sound Design](()
 
--->
+
+<br>
+
+
+[-]() **Created by:** *Fabi ⚡️ — Front-End Developer & Graphic Designer*  
+ 
+[-]() **Music by:** *Alexandre Pachabezian — “River Flows In You” (Deep House Remix)*
+
+[-]() I crafted the **sound design** by synchronizing the music’s rhythm with the timing, speed, and visual flow of the animations.  
+
+[-]() This intentional alignment between **audio and motion** creates a cohesive and immersive experience, enhancing the overall atmosphere of the presentation.
+
+
+
+<br><br>
+
+
+
+
+
+
+
+
+
+
  
  
  #
 
- 
-
+  <br><br>
+ <br><br>
+ <br><br>
  <br><br>
 
 
