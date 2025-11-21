@@ -114,9 +114,9 @@ https://github.com/user-attachments/assets/0bb26391-d565-4549-82a3-27e99638258d
 <br>
 
 
-[-]() **Created by:** *Fabi ⚡️ — Front-End Developer & Graphic Designer*  
+[-]()  Created by: [**Fabi⚡️**]()  Front-End Developer & Graphic Designer*  
  
-[-]() **Music by:** *Alexandre Pachabezian — “River Flows In You” (Deep House Remix)*
+[-]() Music by: [**Alexandre Pachabezian**]()  𝄞  “ River Flows In You” - (Deep House Remix)
 
 [-]() I crafted the **sound design** by synchronizing the music’s rhythm with the timing, speed, and visual flow of the animations.  
 
