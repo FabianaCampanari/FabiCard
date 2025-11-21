@@ -7,9 +7,6 @@
  <br><br>
 
 
- ### <p align="center"> <img width="131" alt="Produced-By-Human-Not-By-AI-Badge-black@2x" src="https://github.com/MindfulAI-Copilots-Bots/.github/assets/113218619/3e3085a8-4e8f-49b5-b3f7-387e9649be17">
-
-
 
 
 <br><br>
@@ -19,11 +16,18 @@
 ### Each project is displayed as a **dual card**, allowing simultaneous viewing of the implementation (HTML/CSS/JS) and the final rendered interface.
 
 
+
+<br><br>
+
+
+ ### <p align="center"> <img width="131" alt="Produced-By-Human-Not-By-AI-Badge-black@2x" src="https://github.com/MindfulAI-Copilots-Bots/.github/assets/113218619/3e3085a8-4e8f-49b5-b3f7-387e9649be17">
+
+
 <br><br>
 
 
 
-#### <p align="center">     😎   ***See the project in action*** ➠ https://fabianacampanari.github.io/FabiCard/  
+### <p align="center">     😎   ***See the project in action*** ➠ https://fabianacampanari.github.io/FabiCard/  
 
 
 <br><br>
