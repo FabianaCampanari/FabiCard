@@ -1,10 +1,6 @@
 <br>
 
-# <p align="center">  Fabi ⚡️ Card </p>
-
-
-
-
+# <p align="center">  Fabi's ⚡️ Project Thumbs </p>
 
 
 <br>
