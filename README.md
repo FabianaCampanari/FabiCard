@@ -43,15 +43,19 @@
  <br><br>
 
 
- <p align="center"> 📌  SPECS: </p>
+## 📌  SPECS: 
 
- <p align="center"> ✨   Development of a web project created within Code Pen and later hosted on Github as a website </p>
 
- <p align="center"> ✨   My projects thumbnail through the “embed” feature of Code Pen </p>
+<br>
 
- <p align="center"> ✨   Dark Mode button viem option included </p>
 
- <p align="center"> ✨   HTML | JavaScript | CSS | Github | Figma </p>
+ ✨   Development of a web project created within Code Pen and later hosted on Github as a website </p>
+
+ ✨   My projects thumbnail through the “embed” feature of Code Pen </p>
+
+✨   Dark Mode button viem option included </p>
+
+✨   HTML | JavaScript | CSS | Github | Figma </p>
 
 
   <br><br>
