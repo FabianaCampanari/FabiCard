@@ -71,21 +71,41 @@ https://github.com/user-attachments/assets/0bb26391-d565-4549-82a3-27e99638258d
 
 <br>
 
-#### To offer an elegant and educational visual experience that allows users to:
+#### **To offer an elegant and educational visual experience that allows users to**:
 
 
 <br>
 
+
 [-]() Compare code ↔ interface in real time  
 
-[-]( Highlight structure, semantics, and styling  
+[-]() Highlight structure, semantics, and styling  
 
-[-]( Facilitate evaluation, study, and presentation of front-end projects  
+[-]() Facilitate evaluation, study, and presentation of front-end projects  
 
 
 
 <br><br>
 
+
+## 🛠️ Technologies & Skills
+
+<br>
+
+####  **Web Development**
+
+<br>
+
+[-]()  **HTML** — 82.8%  
+
+[-]()  **CSS** — 16.6%  
+
+[-]()  **JavaScript** — 0.6%  
+
+[-]()  GitHub Pages / Automatic Deployment  
+
+
+<br><br>
 
 
 <!-- OLD IMG
