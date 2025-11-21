@@ -19,14 +19,15 @@
 Each project is displayed as a **dual card**, allowing simultaneous viewing of the implementation (HTML/CSS/JS) and the final rendered interface.
 
 
+### <p align="center">  ***See the project in action*** ➠ https://fabianacampanari.github.io/FabiCard/  
+
+
 <br><br>
 
 
 #### <p align="center"> [![Sponsor FabianaCampanari](https://img.shields.io/badge/Sponsor-%C2%B7%C2%B7%C2%B7%C2%B7%C2%B7%C2%B7%C2%B7%20FabianaCampanari%20%C2%B7%C2%B7%C2%B7%C2%B7%C2%B7%C2%B7%C2%B7-brightgreen?logo=GitHub)](https://github.com/sponsors/FabianaCampanari)
 
 
-
-#### ***See the project in action*** ➠ https://fabianacampanari.github.io/FabiCard/  
 
 
 
