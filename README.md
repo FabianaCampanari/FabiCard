@@ -6,11 +6,18 @@
 
 <br><br>
 
-#### ✨  It's a kind of a digital business card including my projects thumbnails, codes, links to my social medias and a dark mode view option button.
+
+🎥  **Live Demo:** https://fabianacampanari.github.io/FabiCard/  
+
+<br><br>
+
+
+https://github.com/user-attachments/assets/8eb67780-ba17-4bee-89a5-c6f6a08a5fed
 
 <br>
 
-##### <p align="center"> ***< made with vibe, frequency & joy />*** ⚡️  </p>
+
+Created by: *Fabiana ⚡️ Campanari — Front-End Developer & Graphic Designer*
 
 
 
@@ -21,8 +28,6 @@
 
 
 
-
-https://github.com/user-attachments/assets/8eb67780-ba17-4bee-89a5-c6f6a08a5fed
 
 
 
