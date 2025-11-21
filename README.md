@@ -10,11 +10,10 @@
 
 #### <p align="center">  ***< made with vibe, frequency & joy />*** 🪬  </p>
 
-#
 
  <br>
 
-<p align="center"> 🚀  https://fabianacampanari.github.io/FabiCard/ </p>
+### <p align="center"> 🚀  https://fabianacampanari.github.io/FabiCard/ </p>
 
 
 <br>
