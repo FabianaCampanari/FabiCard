@@ -27,7 +27,7 @@ Each project is displayed as a [**dual card**](), allowing simultaneous viewing 
 
 
 
-###  😎   ***See the project in action*** ↔  https://fabianacampanari.github.io/FabiCard/  
+#### <p align="center">  😎   ***See the project in action*** ↔  https://fabianacampanari.github.io/FabiCard/  
 
 
 
