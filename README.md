@@ -17,15 +17,14 @@
 
 
 
-<br><br>
+<br><br><br><br>
 
 
 #### 🎥  **Live Demo:** https://fabianacampanari.github.io/FabiCard/  
 
-<br><br>
+<br>
 
-
-https://github.com/user-attachments/assets/8eb67780-ba17-4bee-89a5-c6f6a08a5fed
+------
 
 <br>
 
