@@ -11,9 +11,9 @@
 
 <br><br>
 
- [**Fabi⚡️Card**]() is an interactive portfolio designed to clearly present the direct relationship between **code** and its **visual output**.  
+ #### [**Fabi⚡️Card**]() is an interactive portfolio designed to clearly present the direct relationship between **code** and its **visual output**.  
 
-Each project is displayed as a [**dual card**](), allowing simultaneous viewing of the implementation [(HTML / CSS / JS)]() and the final rendered interface.
+#### Each project is displayed as a [**dual card**](), allowing simultaneous viewing of the implementation [(HTML / CSS / JS)]() and the final rendered interface.
 
 
 
@@ -43,7 +43,7 @@ Each project is displayed as a [**dual card**](), allowing simultaneous viewing 
 <br><br><br><br>
 
 
- ###  🎥  [**Live Demo:**]() Turn the Sound On & Enjoy the Show 🎧
+ ####  🎥  [**Live Demo:**]() Turn the Sound On & Enjoy the Show 🎧
 
 <br>
 
@@ -59,7 +59,7 @@ https://github.com/user-attachments/assets/0bb26391-d565-4549-82a3-27e99638258d
  <br><br>
 
 
-## 📿 [Project Purpose]()
+## ₊˚🕯️ [Project Purpose]()
 
 <br>
 
