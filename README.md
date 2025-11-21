@@ -29,7 +29,7 @@
 
 
 
-### <p align="center">   ***See the project in action***  🤺  https://fabianacampanari.github.io/FabiCard/  
+### <p align="center">   ***See the project in action***  🤺 ➾  https://fabianacampanari.github.io/FabiCard/  
 
 
 
@@ -49,7 +49,7 @@
 
     
 
- ###   .🎵⋆. ݁₊🎶*+🎶..  [**Live Demo**]():  Turn the Sound On & Enjoy the Show   ..+*🎶⋆. ݁₊🎵.⋆.𝄞.* 
+ ###  <p align="center">   .🎵⋆. ݁₊🎶*+🎶..  [**Live Demo**]():  Turn the Sound On & Enjoy the Show   ..+*🎶⋆. ݁₊🎵.⋆.𝄞.* 
 
 
 <br>
@@ -59,11 +59,11 @@ https://github.com/user-attachments/assets/0bb26391-d565-4549-82a3-27e99638258d
 <br>
 
 
-[Created by](): Fabi⚡️  — Front-End Developer & Graphic Designer  🖤 
+🖤  [Created by](): Fabi⚡️  Front-End Developer & Graphic Designer  
 
 
+ <br><br> <br><br>
 
- <br><br>
 
 
 ## ₊˚🕯️ [Project Purpose]()
